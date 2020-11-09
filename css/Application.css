@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color:#343a40;
+  color: white;
+}
