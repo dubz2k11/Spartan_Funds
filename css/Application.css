@@ -1,41 +1,48 @@
 body{
-  background-color: #6c757d;
+background-color: #6c757d;
 }
 footer {
-  text-align: center;
-  padding: 3px;
-  background-color:#343a40;
-  color: white;
+text-align: center;
+padding: 3px;
+background-color:#343a40;
+color: white;
 }
 .fa-bootstrap{
-  color: purple;
+color: purple;
 }
 .fa-js-square{
-  color: yellow;
+color: yellow;
 }
 .fa-html5{
-  color: orange;
+color: orange;
 }
 .fa-check{
-  color: limegreen;
+color: limegreen;
 }
 .fa-facebook{
-  color: blue;
+color: blue;
 }
 .fa-twitter-square{
-  color: lightblue;
+color: lightblue;
 }
 .fa-youtube{
-  color: red;
+color: red;
 }
 .compare{
-  padding: 20px;
-  color: black;
-  background-color: #f8f9fa;
-  border-width:5px;
-  border-color: black;
+padding: 20px;
+color: black;
+background-color: #f8f9fa;
+border-width:5px;
+border-color: black;
 }
 .Signup{
-  background-color: white;
-  padding: 20px;
+background-color: white;
+padding: 20px;
+}
+.fa-poo{
+color: brown;
+}
+.data{
+padding: 20px;
+font-style: 200px;
 }
