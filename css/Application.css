@@ -1,9 +1,37 @@
 body{
-  background-color: black;
+  background-color: #6c757d;
 }
 footer {
   text-align: center;
   padding: 3px;
   background-color:#343a40;
   color: white;
+}
+.fa-bootstrap{
+  color: purple;
+}
+.fa-js-square{
+  color: yellow;
+}
+.fa-html5{
+  color: orange;
+}
+.fa-check{
+  color: limegreen;
+}
+.fa-facebook{
+  color: blue;
+}
+.fa-twitter-square{
+  color: lightblue;
+}
+.fa-youtube{
+  color: red;
+}
+.compare{
+  padding: 20px;
+  color: black;
+  background-color: #f8f9fa;
+  border-width:5px;
+  border-color: black;
 }
