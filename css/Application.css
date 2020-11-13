@@ -67,3 +67,8 @@ font-style: 200px;
 .Signup{
   background-color:#343a40;
 }
+.col-8{
+  background-color:white;
+  color: black;
+  padding: 55px;
+}
