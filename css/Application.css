@@ -59,3 +59,11 @@ font-style: 200px;
 .card-body{
   color: black;
 }
+.form-group{
+  padding: 15px;
+  color: red;
+  background-color:#343a40;
+}
+.Signup{
+  background-color:#343a40;
+}
