@@ -1,5 +1,6 @@
 body{
-background-color: #6c757d;
+background-color:black;
+color: yellow;
 }
 footer {
 text-align: center;
@@ -47,3 +48,14 @@ padding: 20px;
 font-style: 200px;
 }
 .navbar-expand{-sm|-md|-lg|-xl}
+.jumbotron{
+  background-color: red;
+  color: yellow;
+}
+.compare{
+  background-color:red;
+  color: yellow;
+}
+.card-body{
+  color: black;
+}
