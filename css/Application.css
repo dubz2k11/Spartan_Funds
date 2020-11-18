@@ -21,7 +21,7 @@ color: yellow;
 color: orange;
 }
 .fa-check{
-color: limegreen;
+color: red;
 }
 .fa-facebook{
 color: blue;
@@ -31,6 +31,9 @@ color: lightblue;
 }
 .fa-youtube{
 color: red;
+}
+.fa-check-circle{
+  color: limegreen;
 }
 .compare{
 padding: 20px;
@@ -45,6 +48,9 @@ padding: 20px;
 }
 .fa-poo{
 color: brown;
+}
+.fa-info-circle{
+  color: red;
 }
 .data{
 padding: 20px;
@@ -65,6 +71,7 @@ font-style: 200px;
   padding: 15px;
   color: red;
   background-color:#343a40;
+  text-align: center;
 }
 .Signup{
   background-color:#343a40;
@@ -88,7 +95,9 @@ font-style: 200px;
 }
 
 .container {
-  padding: 0 16px;
+  padding: 0 16px ;
+    background-color: black;
+    color: yellow;
 }
 
 .title {
@@ -101,14 +110,14 @@ font-style: 200px;
   display: inline-block;
   padding: 8px;
   color: white;
-  background-color:green;
+  background-color:blue;
   text-align: center;
   cursor: pointer;
   width: 100%;
 }
 
 .button:hover {
-  background-color: #555;
+  background-color: yellow;
 }
 @media screen and (max-width: 650px) {
   .column {
