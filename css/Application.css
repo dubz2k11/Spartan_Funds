@@ -1,5 +1,5 @@
 body{
-background-color:black;
+background-color:red;
 color: yellow;
 }
 footer {
@@ -49,11 +49,11 @@ font-style: 200px;
 }
 .navbar-expand{-sm|-md|-lg|-xl}
 .jumbotron{
-  background-color: red;
+  background-color:black;
   color: yellow;
 }
 .compare{
-  background-color:red;
+  background-color:black;
   color: yellow;
 }
 .card-body{
