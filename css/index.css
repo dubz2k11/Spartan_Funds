@@ -63,11 +63,12 @@ span.psw {
   }
 }
 h1{
-  font-family: 'GFS Didot', serif;
+  font-family: 'Yatra One', cursive;
   text-align: center;
   color: red;
   font-size: 50px;
 }
 p{
   text-align: center;
+    font-family: 'Yatra One', cursive;
 }

@@ -2,8 +2,8 @@ html {
   box-sizing: border-box;
 }
 body{
-background-color:red;
-color: yellow;
+background-color:#FA1F0B;
+color: black;
 }
 footer {
 text-align: center;
@@ -110,14 +110,14 @@ font-style: 200px;
   display: inline-block;
   padding: 8px;
   color: white;
-  background-color:blue;
+  background-color:#600AFD;
   text-align: center;
   cursor: pointer;
   width: 100%;
 }
 
 .button:hover {
-  background-color: yellow;
+  background-color: #600AFD;
 }
 @media screen and (max-width: 650px) {
   .column {
@@ -193,7 +193,7 @@ label {
 }
 
 .btn {
-  background-color: #4CAF50;
+  background-color: #600AFD;
   color: white;
   padding: 12px;
   margin: 10px 0;
