@@ -1,4 +1,7 @@
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+background-color: black;
+color: red;
+text-align: center;}
 form {border: 3px solid #f1f1f1;}
 
 input[type=text], input[type=password] {
@@ -11,8 +14,8 @@ input[type=text], input[type=password] {
 }
 
 button {
-  background-color: #4CAF50;
-  color: white;
+  background-color: red;
+  color: yellow;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -58,4 +61,13 @@ span.psw {
   .cancelbtn {
      width: 100%;
   }
+}
+h1{
+  font-family: 'GFS Didot', serif;
+  text-align: center;
+  color: red;
+  font-size: 50px;
+}
+p{
+  text-align: center;
 }
