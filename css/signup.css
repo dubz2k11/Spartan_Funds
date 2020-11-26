@@ -1,4 +1,4 @@
-body {font-family: Arial, Helvetica, sans-serif; background-color: #FA2A65; color: white;}
+body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box}
 
 /* Full-width input fields */
@@ -93,4 +93,9 @@ color: lightblue;
 }
 .fa-youtube{
 color: red;
+}
+.jumbotron{
+  background-color:black;
+  color: white;
+  text-align: center;
 }
